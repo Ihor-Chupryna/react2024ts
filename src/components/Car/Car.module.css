@@ -1,0 +1,7 @@
+.carStyle  {
+    border: 1px solid black;
+    box-sizing: border-box;
+    margin: 5px;
+    padding: 5px;
+    background-color: #bebebe;
+}
