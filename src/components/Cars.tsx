@@ -1,7 +1,7 @@
 import { useEffect } from "react";
 
 import { useAppDispatch, useAppSelector } from "../hooks";
-import { carActions } from "../store/slices";
+import { carActions } from "../store";
 import { Car } from "./Car";
 
 
