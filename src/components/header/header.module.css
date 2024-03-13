@@ -1,0 +1,15 @@
+.mainStile {
+    height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: snow;
+    background: black;
+    padding: 0 15px;
+}
+
+.mainStile a {
+    text-decoration: none;
+    color: white;
+    margin: 0 15px;
+}
